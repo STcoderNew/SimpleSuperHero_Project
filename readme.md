@@ -27,7 +27,7 @@ Before you begin, ensure you have the following installed on your system:
 ### Steps to Set Up the Backend
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/STcoderNew/SimpleSuperHero_Project.git
    cd backend
    ```
 2. Install backend dependencies:
@@ -75,7 +75,7 @@ Before you begin, ensure you have the following installed on your system:
 
 
 
-## Future Improvements
+## If I had more time
 If I had more time, I would implement the following features to further enhance the Humble Superheroes application:
 
 #### User Authentication:
